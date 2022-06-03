@@ -1,5 +1,5 @@
 autopep8==1.4.4
-bottle==0.12.17
+bottle==0.12.20
 mysql-connector-python==8.0.16
 pycodestyle==2.5.0
 PyMySQL==0.9.3
